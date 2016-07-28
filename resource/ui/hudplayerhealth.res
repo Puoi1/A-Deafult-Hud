@@ -75,7 +75,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"120"
+		"xpos"			"130"
 		"xpos_minmode"	"120"
 		"ypos"			"48"	[$WIN32]
 		"ypos"			"50"	[$X360]
@@ -92,7 +92,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
-		"xpos"			"120"
+		"xpos"			"130"
 		"xpos_minmode"	"122"
 		"ypos"			"50"	[$WIN32]
 		"ypos"			"50"	[$X360]

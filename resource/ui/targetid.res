@@ -24,8 +24,8 @@
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
 
-		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"
+		"draw_corner_width"		"3"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"3"
 	}
 	"TargetIDBG_Spec_Blue"
 	{
@@ -46,8 +46,8 @@
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
 
-		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"
+		"draw_corner_width"		"3"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"3"
 	}
 	"TargetIDBG_Spec_Red"
 	{
@@ -68,8 +68,8 @@
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
 
-		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"
+		"draw_corner_width"		"3"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"3"
 	}
 
 	"TargetNameLabel"

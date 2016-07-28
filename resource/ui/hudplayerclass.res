@@ -80,12 +80,12 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusClassImageBG"
-		"xpos"			"9"		[$WIN32]
+		"xpos"			"99999"		[$WIN32]
 		"xpos_minmode"	"9999"		[$WIN32]
 		"ypos"			"9999"	[$WIN32]
-		"ypos_minmode"		"r40"	[$WIN32]
-		"xpos"			"41"	[$X360]
-		"ypos"			"r82"	[$X360]
+		"ypos_minmode"		"9999"	[$WIN32]
+		"xpos"			"9999"	[$X360]
+		"ypos"			"9999"	[$X360]
 		"zpos"			"1"		
 		"wide"			"100"
 		"tall"			"50"
@@ -103,9 +103,9 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classmodelpanelBG"
-		"xpos"			"-5"		[$WIN32]
+		"xpos"			"99999"		[$WIN32]
 		"xpos_minmode"	"9999"		[$WIN32]
-		"ypos"			"r60"	[$WIN32]
+		"ypos"			"9999"	[$WIN32]
 		"ypos_minmode"		"9999"	[$WIN32]
 		"xpos"			"41"	[$X360]
 		"ypos"			"r82"	[$X360]
@@ -127,9 +127,9 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
 		
-		"xpos"			"0"	[$WIN32]
+		"xpos"			"-10"	[$WIN32]
 		"xpos_minmode"	"0"	[$WIN32]
-		"ypos"			"r214"	[$WIN32]
+		"ypos"			"r200"	[$WIN32]
 		"ypos_minmode"	"r88"	[$WIN32]
 		"zpos"			"2"		
 		"wide"			"100"
@@ -154,7 +154,7 @@
 			"angles_x" "0"
 			"angles_y" "172"
 			"angles_z" "0"
-			"origin_x" "200"
+			"origin_x" "0"
 			"origin_y" "0"
 			"origin_z" "-60"
 			"frame_origin_x"	"0"
