@@ -88,13 +88,31 @@
 		"font"			"HudClassHealth"
 		"fgcolor"		"TanLight"
 	}
-	"PlayerStatusHealthValueShadow"
+	"PlayerStatusHealthValueshadow"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValueShadow"
-		"xpos"			"130"
+		"fieldName"		"PlayerStatusHealthValueshadow"
+		"xpos"			"131"
 		"xpos_minmode"	"122"
 		"ypos"			"50"	[$WIN32]
+		"ypos"			"50"	[$X360]
+		"zpos"			"5"
+		"wide"			"90"
+		"tall"			"44"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"	
+		"font"			"HudClassHealth"
+		"fgcolor"		"Black"
+	}	
+	"PlayerStatusHealthValueshadowExtra"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueshadowExtra"
+		"xpos"			"132"
+		"xpos_minmode"	"123"
+	    "ypos"			"49"
+		"ypos_minmode"	"50"	[$WIN32]
 		"ypos"			"50"	[$X360]
 		"zpos"			"5"
 		"wide"			"90"

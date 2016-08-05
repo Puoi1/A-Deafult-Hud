@@ -64,25 +64,26 @@
 		"zpos"			"5"
 		"wide"			"50"
 		"tall"			"18"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"textAlignment"	"center"	
 	}
 	"PlayerStatusHealthValue2"
 	{
-		"ControlName"	"Label"
-		"fieldName"	"PlayerStatusHealthValue2"
-		"xpos"		"-2"
-		"ypos"		"9"
-		"zpos"		"6"
-		"wide"		"32"
-		"tall"		"10"
+		"ControlName"		"Label"
+		"fieldName"		"PlayerStatusHealthValue2"
+		"xpos"			"-4"
+		"ypos"			"18"
+		"zpos"			"7"
+		"wide"			"48"
+		"tall"			"10"
 		"visible"		"1"
 		"enabled"		"1"
-		"labeltext"	"%Health%"
-		"textAlignment"	"center"
-		"font"		"hudfontsmallest"
-		"fgcolor"		"0 0 0 255"
+		"labeltext"		"%Health%"
+		"textAlignment"		"Center"
+		"font"			"AchievementTracker_Name"
+		"fgcolor"		"White"
 	}
-								
+
+	
 }

@@ -82,11 +82,11 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"65"
+		"xpos"					"0"
 		"ypos_minmode"			"-13"
 		"ypos"					"10"
 		"zpos"					"2"
-		"wide"					"40"
+		"wide"					"50"
 		"tall"					"60"	
 		"pinCorner"				"2"
 		"visible"				"1"
@@ -96,7 +96,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMedium"
+		"font"					"HudFontSmall"
 		"font_minmode"			"HudFontSmall"
 	}
 }

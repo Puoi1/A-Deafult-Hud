@@ -23,8 +23,8 @@
 		"fieldName"		"ChargeLabel"
 		"xpos"			"30"
 		"xpos_minmode"			"11"
-		"ypos"			"24"
-		"ypos_minmode"			"11"
+		"ypos"			"22"
+		"ypos_minmode"			"5"
 		"zpos"			"2"
 		"wide"			"90"
 		"tall"			"15"
@@ -37,7 +37,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontMediumBold"
 	}
 	"ChargeLabelShadow"
 	{
@@ -45,8 +45,8 @@
 		"fieldName"		"ChargeLabelShadow"
 		"xpos"			"30"
 		"xpos_minmode"			"11"
-		"ypos"			"25"
-		"ypos_minmode"			"11"
+		"ypos"			"23"
+		"ypos_minmode"			"7"
 		"zpos"			"2"
 		"wide"			"90"
 		"tall"			"15"
@@ -60,7 +60,7 @@
 		"fgcolor" "black"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontMediumBold"
 	}
 
 	"IndividualChargesLabel"
@@ -94,7 +94,7 @@
 		"font"			"Default"
 		"xpos"			"30"
 		"xpos_minmode"			"10"
-		"ypos"			"38"
+		"ypos"			"40"
 		"ypos_minmode"			"23"
 		"zpos"			"2"
 		"wide"			"86"
